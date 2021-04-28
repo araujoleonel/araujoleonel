@@ -8,8 +8,13 @@
 
 #### Frontend
 
-[![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "HTML5")](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "HTML5") [![BootStrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg "BootStrap")](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg "BootStrap") [![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg "JavaScript")](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg "JavaScript") [![JQuery](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg "JQuery")](https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg "JQuery") [![ReactJs](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg "ReactJs")](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg "ReactJs")
+<img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" width="55" height="65" alt="HTML5" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width="55" height="65" alt="CSS3" />  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="90" height="65" alt="BootStrap" /> <img src="https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png" width="75" height="75" alt="JavaScript" /> <img src="https://logodix.com/logo/941103.png" width="75" height="75" alt="JQuery" /> <img src="https://beincloud.net/images/tecnologias/react.png" width="105" height="85" alt="ReactJs" />  <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" width="85" height="85" alt="React Native" />
 
 #### Backend
 
-[![PHP](https://www.vectorlogo.zone/logos/php/php-horizontal.svg "PHP")](https://www.vectorlogo.zone/logos/php/php-horizontal.svg "PHP")[![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg "Laravel")](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg "Laravel")[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg "MySQL")](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg "MySQL")[![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg "PostgreSQL")](https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg "PostgreSQL")
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width="105" height="70" alt="PHP" />  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="105" height="70" alt="Laravel" />  <img src="https://www.coriaweb.hosting/wp-content/uploads/2016/11/dc5df_codeigniter-300x300.jpg" width="105" height="70" alt="Codeigniter" />  <img src="https://i.blogs.es/0599e0/mariadb-vs-mysql/1366_2000.jpg" width="115" height="70" alt="MySql" />  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" width="165" height="70" alt="PostgreSQL" />
+
+
+
+
+
