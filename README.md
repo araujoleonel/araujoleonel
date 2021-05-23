@@ -14,7 +14,13 @@
 
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width="105" height="70" alt="PHP" />  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="105" height="70" alt="Laravel" />  <img src="https://www.coriaweb.hosting/wp-content/uploads/2016/11/dc5df_codeigniter-300x300.jpg" width="105" height="70" alt="Codeigniter" />  <img src="https://i.blogs.es/0599e0/mariadb-vs-mysql/1366_2000.jpg" width="115" height="70" alt="MySql" />  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" width="165" height="70" alt="PostgreSQL" />
 
+## Mis repositorios
 
+Aquí vas a encontrar una serie de repositorios con algunos de mis mejores proyectos. Te invito a que los visites.
+
+## Contactame
+
+Puedes visitar [mi página](https://araujocastroleonel.netlify.app/), donde encontraras mi portafolio y un formulario de contacto, a través del cual podrás enviarme tus comentarios o cualquier cosa que desees comunicarme.
 
 
 
